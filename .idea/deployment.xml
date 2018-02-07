@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://xmz@10.88.3.92:22/home/lord-tom/anaconda3/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://xmz@10.88.3.92:22/home/lord-tom/anaconda3/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/xmz/slml" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
